@@ -679,7 +679,7 @@ footer i{
     cursor: pointer;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
     height: 350px; /* Increase card height */
-    background-color: #312f2fce;
+    background-color: black;
     border-bottom: #a44cd7 2px solid;
     
 }
